@@ -1,7 +1,7 @@
 # 2d-racing-game-unity
 
-2D Racing game for CM3127 - Interactive 2D Scripting
+2D Racing game made for CM3127 - Interactive 2D Scripting using Unity. Here is a brief video explaining what requirements were met and problems encountered during development.
 
-<source src="screenCast.mp4" type="video/mp4">
+https://user-images.githubusercontent.com/14131412/190914965-5ecc33c3-487a-49dc-9367-fcf1d1b5e0e6.mp4
 
 The project mainly uses sprites created/distributed by Kenney (www.kenney.nl).
